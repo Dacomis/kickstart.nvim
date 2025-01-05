@@ -29,7 +29,6 @@ External Requirements:
   - if you have it set `vim.g.have_nerd_font` in `init.lua` to true
 - Language Setup:
   - If you want to write Typescript, you need `npm`
-  - If you want to write Golang, you will need `go`
   - etc.
 
 > **NOTE**
